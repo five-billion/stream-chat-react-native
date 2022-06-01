@@ -257,7 +257,7 @@ export type ChannelPropsWithContext<
       | 'InlineDateSeparator'
       | 'InlineUnreadIndicator'
       | 'isAttachmentEqual'
-      | 'isMessageEqual''
+      | 'isMessageEqual'
       | 'legacyImageViewerSwipeBehaviour'
       | 'markdownRules'
       | 'Message'
