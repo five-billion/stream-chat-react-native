@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/GetStream/stream-chat-react-native.git"
+    "url": "https://github.com/five-billion/stream-chat-react-native.git"
   },
   "scripts": {
     "android": "npx react-native run-android",

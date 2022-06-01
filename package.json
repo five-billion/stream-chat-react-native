@@ -3,7 +3,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/GetStream/stream-chat-react-native.git"
+    "url": "https://github.com/five-billion/stream-chat-react-native.git"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
